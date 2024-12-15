@@ -1,3 +1,3 @@
 # sanvi
 this is my first git repository<br>
-Author-Sanvi Gupta
+Author-Sanvi Gupta(Apna)
